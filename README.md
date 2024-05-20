@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Owl4444
 - 👀 I’m interested in
   - Malware Analysis
-  - Malware Developement & Detection
+  - Malware Development & Detection
 - 🌱 I’m currently learning 
   - Windows OS Internals
   - Malware Tricks and their implementation
