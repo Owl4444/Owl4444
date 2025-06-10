@@ -4,7 +4,7 @@
   - Malware Development & Detection
 - 🌱 I’m currently learning 
   - Windows OS Internals
-  - Malware Tricks and their implementation
+  - Malware Techniques
 - 📫 How to reach me 
   - Twitter : https://twitter.com/malware_owl
 - Blog
